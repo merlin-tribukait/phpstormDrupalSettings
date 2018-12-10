@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="searchOverloadedMethods" value="true" />
+    <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*test*" />
+    <mask>*twig</mask>
+    <mask>*routes.yml</mask>
+    <mask>*services.yml</mask>
+    <mask>*.css</mask>
+    <mask>*.actions.yml</mask>
+    <mask>*.action.yml</mask>
+    <mask>*.php</mask>
+    <mask>*trait*</mask>
+    <mask>!*.css</mask>
+    <mask>!*xml</mask>
+    <mask>*drush.inc</mask>
+    <mask>*yml</mask>
+    <mask>!*yml</mask>
+    <mask>*info.yml</mask>
+    <mask>*map.settings.yml</mask>
+    <mask>*scss</mask>
+    <mask>!*.rb</mask>
+    <mask>!*.xml</mask>
+    <mask>*.xml</mask>
+    <mask>*controller*</mask>
+    <mask>*form*</mask>
+    <mask>*test*</mask>
+    <mask>*php</mask>
+    <mask>system.action.*.yml</mask>
+    <mask>*.js</mask>
+    <mask>*.yml</mask>
+    <mask>*.info.yml</mask>
+    <mask>*.services.yml</mask>
+    <mask>*Sale*</mask>
+    <mask>!*test*</mask>
+  </component>
+</application>

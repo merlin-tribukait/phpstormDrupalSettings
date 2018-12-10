@@ -1,0 +1,9 @@
+<toolSet name="Drupal">
+  <tool name="Cache clear" description="drush cache-rebuild" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/projects/workfusion/partners/.bin/drush" />
+      <option name="PARAMETERS" value="cr" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/workfusion/partners/web" />
+    </exec>
+  </tool>
+</toolSet>

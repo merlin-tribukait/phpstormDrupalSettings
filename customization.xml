@@ -1,0 +1,5 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <action id="Tool_Drupal_Cache clear" icon="$USER_HOME$/Downloads/clean (3).png" />
+  </component>
+</application>
