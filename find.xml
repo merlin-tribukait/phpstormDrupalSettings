@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="core" />
-    <option name="defaultScopeName" value="core" />
+    <option name="customScope" value="customPHP" />
+    <option name="defaultScopeName" value="customPHP" />
     <option name="localRegularExpressions" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="core" />
+    <option name="SEARCH_SCOPE" value="customPHP" />
     <option name="FILE_MASK" value="!*test*" />
     <mask>*twig</mask>
     <mask>*routes.yml</mask>
