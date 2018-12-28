@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="core" />
-    <option name="defaultScopeName" value="core" />
+    <option name="customScope" value="coreYML" />
+    <option name="defaultScopeName" value="coreYML" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="core" />
+    <option name="SEARCH_SCOPE" value="coreYML" />
     <option name="FILE_MASK" value="!*test*" />
     <mask>*twig</mask>
     <mask>*routes.yml</mask>
