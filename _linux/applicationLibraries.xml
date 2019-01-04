@@ -28,6 +28,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="xgemius" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_radio.aplus.by_xgemius.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_radio.aplus.by_xgemius.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="{c9b4f2db-364d-426e-82d8-42fcca9b2439}_wp_form_js" type="javaScript">
       <properties>
         <sourceFilesUrls>
