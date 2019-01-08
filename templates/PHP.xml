@@ -4,4 +4,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="etm" value="$entityTypeManager = \Drupal::entityTypeManager();&#10;$END$" description="Entity type manager" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
