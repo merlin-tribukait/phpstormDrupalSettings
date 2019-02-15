@@ -9,6 +9,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="corePHP" />
+    <option name="FILE_MASK" value="!*test*" />
     <mask>*routes.yml</mask>
     <mask>*services.yml</mask>
     <mask>*.css</mask>
@@ -37,7 +38,7 @@
     <mask>*.services.yml</mask>
     <mask>*Sale*</mask>
     <mask>*.info.yml</mask>
-    <mask>!*test*</mask>
     <mask>*.gitignore</mask>
+    <mask>!*test*</mask>
   </component>
 </application>
