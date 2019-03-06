@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="customPHP" />
-    <option name="defaultScopeName" value="customPHP" />
+    <option name="customScope" value="corePHP" />
+    <option name="defaultScopeName" value="corePHP" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="customPHP" />
+    <option name="SEARCH_SCOPE" value="corePHP" />
     <option name="FILE_MASK" value="!*test*" />
     <mask>*services.yml</mask>
     <mask>*.css</mask>
