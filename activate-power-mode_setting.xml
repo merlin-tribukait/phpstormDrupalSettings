@@ -4,5 +4,7 @@
     <option name="IS_SPARK" value="false" />
     <option name="IS_COLORFUL" value="true" />
     <option name="MAX_CLICK_COMBO" value="153" />
+    <option name="IS_COMBO" value="false" />
+    <option name="PARTICLE_MAX_COUNT" value="1" />
   </component>
 </application>
