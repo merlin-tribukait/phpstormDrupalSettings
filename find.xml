@@ -7,7 +7,6 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="core" />
-    <option name="FILE_MASK" value="*.css" />
     <mask>*services.yml</mask>
     <mask>*.actions.yml</mask>
     <mask>*.action.yml</mask>
@@ -36,7 +35,7 @@
     <mask>*.info.yml</mask>
     <mask>*.gitignore</mask>
     <mask>*.module</mask>
-    <mask>!*test*</mask>
     <mask>*.css</mask>
+    <mask>!*test*</mask>
   </component>
 </application>
