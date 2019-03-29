@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="custom" />
-    <option name="defaultScopeName" value="custom" />
+    <option name="customScope" value="HTML" />
+    <option name="defaultScopeName" value="HTML" />
     <option name="localCaseSensitive" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="custom" />
+    <option name="SEARCH_SCOPE" value="HTML" />
     <option name="FILE_MASK" value="!*test*" />
     <mask>*services.yml</mask>
     <mask>*.actions.yml</mask>
