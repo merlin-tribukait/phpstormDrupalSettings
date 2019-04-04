@@ -1,15 +1,15 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="customJS" />
-    <option name="defaultScopeName" value="customJS" />
+    <option name="customScope" value="corePHP" />
+    <option name="defaultScopeName" value="corePHP" />
     <option name="localCaseSensitive" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="customJS" />
-    <option name="FILE_MASK" value="!*test*" />
+    <option name="SEARCH_SCOPE" value="corePHP" />
+    <option name="FILE_MASK" value="*.module" />
     <mask>*services.yml</mask>
     <mask>*.actions.yml</mask>
     <mask>*.action.yml</mask>
@@ -37,8 +37,8 @@
     <mask>*Sale*</mask>
     <mask>*.info.yml</mask>
     <mask>*.gitignore</mask>
-    <mask>*.module</mask>
     <mask>*.css</mask>
     <mask>!*test*</mask>
+    <mask>*.module</mask>
   </component>
 </application>
