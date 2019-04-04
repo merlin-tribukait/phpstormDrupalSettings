@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="customPHP" />
-    <option name="defaultScopeName" value="customPHP" />
+    <option name="customScope" value="customYML" />
+    <option name="defaultScopeName" value="customYML" />
     <option name="localCaseSensitive" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="customPHP" />
+    <option name="SEARCH_SCOPE" value="customYML" />
     <option name="FILE_MASK" value="!*test*" />
     <mask>*.actions.yml</mask>
     <mask>*.action.yml</mask>
