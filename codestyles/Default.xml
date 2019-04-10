@@ -19,6 +19,8 @@
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
+    <option name="THROWS_WEIGHT" value="1" />
+    <option name="RETURN_WEIGHT" value="2" />
     <option name="UPPER_CASE_BOOLEAN_CONST" value="true" />
     <option name="UPPER_CASE_NULL_CONST" value="true" />
     <option name="FIELDS_DEFAULT_VISIBILITY" value="protected" />
@@ -141,7 +143,30 @@
             <match>
               <AND>
                 <METHOD>true</METHOD>
-                <visibility />
+                <PUBLIC>true</PUBLIC>
+                <modifiers />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <PROTECTED>true</PROTECTED>
+                <modifiers />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <PRIVATE>true</PRIVATE>
+                <modifiers />
               </AND>
             </match>
           </rule>
