@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="Vcs.Show.Shelf">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
