@@ -1,14 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="coreYML" />
+    <option name="defaultScopeName" value="coreYML" />
     <option name="localCaseSensitive" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="coreYML" />
     <option name="FILE_MASK" value="!*test*" />
-    <mask>*.action.yml</mask>
     <mask>*.php</mask>
     <mask>*trait*</mask>
     <mask>!*.css</mask>
@@ -37,6 +36,7 @@
     <mask>*.module</mask>
     <mask>*.twig</mask>
     <mask>*.libraries.yml</mask>
+    <mask>*.schema.yml</mask>
     <mask>!*test*</mask>
   </component>
 </application>
