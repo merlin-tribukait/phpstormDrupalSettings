@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="customPHP" />
-    <option name="defaultScopeName" value="customPHP" />
+    <option name="customScope" value="SCSS" />
+    <option name="defaultScopeName" value="SCSS" />
     <option name="localCaseSensitive" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="customPHP" />
+    <option name="SEARCH_SCOPE" value="SCSS" />
     <option name="FILE_MASK" value="!*test*" />
     <mask>*.php</mask>
     <mask>*trait*</mask>
