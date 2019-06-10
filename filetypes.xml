@@ -2,12 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="engine" type="PHP" />
-      <mapping ext="profile" type="PHP" />
       <mapping ext="test" type="PHP" />
+      <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping pattern="rrs.workfusion.com" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="exp" type="PLAIN_TEXT" />
       <mapping pattern="suppoie" type="PLAIN_TEXT" />
