@@ -13,7 +13,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="customYML" />
-    <option name="FILE_MASK" value="*.services.yml" />
+    <option name="FILE_MASK" value="!*test*" />
     <mask>*.php</mask>
     <mask>*trait*</mask>
     <mask>!*.css</mask>
@@ -42,7 +42,7 @@
     <mask>*.twig</mask>
     <mask>*.libraries.yml</mask>
     <mask>*.schema.yml</mask>
-    <mask>!*test*</mask>
     <mask>*.services.yml</mask>
+    <mask>!*test*</mask>
   </component>
 </application>
