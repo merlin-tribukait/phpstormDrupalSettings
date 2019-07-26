@@ -4,7 +4,7 @@
     <property name="created">2018-03-31T22:21:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2019-04-02T11:18:02</property>
+    <property name="modified">2019-07-26T11:37:26</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro for Powerline" />
@@ -25,7 +25,6 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="86dde9" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="86dde9" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="727072" />
     <option name="FILESTATUS_SWITCHED" value="ab9df5" />
     <option name="FILESTATUS_UNKNOWN" value="f59762" />
@@ -49,6 +48,11 @@
     <option name="MAGIC_MEMBER_ACCESS">
       <value>
         <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="PHP.THIS_SELF">
+      <value>
+        <option name="FOREGROUND" value="ff5473" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
