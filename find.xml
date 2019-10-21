@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="HTML" />
-    <option name="defaultScopeName" value="HTML" />
+    <option name="customScope" value="YML" />
+    <option name="defaultScopeName" value="YML" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="searchOverloadedMethods" value="true" />
@@ -12,8 +12,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="HTML" />
-    <option name="FILE_MASK" value="!*test*" />
+    <option name="SEARCH_SCOPE" value="YML" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.php</mask>
     <mask>*trait*</mask>
     <mask>!*.css</mask>
@@ -33,7 +33,6 @@
     <mask>*php</mask>
     <mask>system.action.*.yml</mask>
     <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*Sale*</mask>
     <mask>*.info.yml</mask>
     <mask>*.gitignore</mask>
@@ -44,5 +43,6 @@
     <mask>*.schema.yml</mask>
     <mask>*.services.yml</mask>
     <mask>!*test*</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
