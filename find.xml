@@ -11,7 +11,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="customHTML" />
-    <option name="FILE_MASK" value="*view_display*" />
+    <option name="FILE_MASK" value="!*test*" />
     <mask>*trait*</mask>
     <mask>!*.css</mask>
     <mask>!*xml</mask>
@@ -40,7 +40,7 @@
     <mask>*.schema.yml</mask>
     <mask>*.services.yml</mask>
     <mask>*.yml</mask>
-    <mask>!*test*</mask>
     <mask>*view_display*</mask>
+    <mask>!*test*</mask>
   </component>
 </application>
