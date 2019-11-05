@@ -4,6 +4,11 @@
     <keyboard-shortcut first-keystroke="ctrl alt w" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl number_sign" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
