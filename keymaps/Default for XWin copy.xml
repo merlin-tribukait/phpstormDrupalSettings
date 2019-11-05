@@ -2,7 +2,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl alt w" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="ReopenClosedTab">
